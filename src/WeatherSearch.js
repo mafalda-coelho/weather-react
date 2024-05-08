@@ -54,12 +54,4 @@ export default function WeatherSearch() {
   } else {
     return form;
   }
-  return (
-    <h4>
-      <a href="https://github.com/mafalda-coelho/weather-react">
-        Open-source code{" "}
-      </a>{" "}
-      by Mafalda Coelho.
-    </h4>
-  );
 }
